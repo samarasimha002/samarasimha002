@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - searching for job
+- i need job
 
 <!---
 samarasimha002/samarasimha002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
